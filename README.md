@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Darshini 👩‍💻</h1>
+<h1 align="center">Darshini | Data Analyst 👩‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=22&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Healthcare+Data+Enthusiast;Turning+Data+into+Insights;Open+to+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=22&center=true&vCenter=true&width=500&lines=Python+%7C+SQL+%7C+Power+BI;Healthcare+Analytics;Turning+Data+into+Insights;Open+to+Opportunities" />
 </p>
 
 ---
@@ -78,10 +78,10 @@
   <a href="https://github.com/darshinio-debug">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github" />
   </a>
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="https://www.linkedin.com/in/darshini-so/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="YOUR_INSTAGRAM_LINK">
+  <a href="https://www.instagram.com/gigzdarsh/?hl=en">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" />
   </a>
 </p>
