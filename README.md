@@ -9,8 +9,11 @@
 ## 💫 About Me
 
 💻 Aspiring **Data Analyst** with a background in **Biomedical Engineering**
+
 📊 Passionate about analyzing data and uncovering meaningful insights
+
 🏥 Experience in **Healthcare Data & Medical Coding (ICD-10, CPT)**
+
 🚀 Currently learning **Data Science & AI @ IIT Roorkee**
 
 ---
