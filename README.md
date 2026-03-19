@@ -1,27 +1,100 @@
-Namaste 🙏 I'm Darshini Oudayachandirane. Welcome to my profile
+<h1 align="center">Hi, I'm Darshini 👩‍💻</h1>
 
-💻 Aspiring Data Analyst
-Detail-oriented and analytical graduate in Biomedical Engineering with hands-on experience in healthcare data interpretation and medical coding. I am passionate about analyzing complex datasets, identifying patterns, and ensuring data accuracy. Currently,expanding my expertise in Data Science and Artificial Intelligence at IIT Roorkee to leverage data-driven insights for improved business and operational outcomes.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=22&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Healthcare+Data+Enthusiast;Turning+Data+into+Insights;Open+to+Opportunities" />
+</p>
+
+---
+
+## 💫 About Me
+
+💻 Aspiring **Data Analyst** with a background in **Biomedical Engineering**
+📊 Passionate about analyzing data and uncovering meaningful insights
+🏥 Experience in **Healthcare Data & Medical Coding (ICD-10, CPT)**
+🚀 Currently learning **Data Science & AI @ IIT Roorkee**
+
+---
+
+## 🛠️ Skills & Tools
+
+### 👩‍💻 Data Analysis
+
+* Python (Pandas, NumPy)
+* SQL (Joins, Aggregations, Data Extraction)
+
+### 📊 Visualization
+
+* Power BI
+* Matplotlib, Seaborn
+
+### 🏥 Healthcare Analytics
+
+* Medical Coding (ICD-10, CPT)
+* Healthcare Data Interpretation
+
+### ☁️ Cloud & Platforms
+
+* Microsoft Azure (AZ-900)
+* Power Platform (PL-900)
+
+### 🧠 Core Skills
+
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Trend Analysis & Forecasting
+* Problem-Solving
+
+---
+
+## 🚀 What I'm Working On
+
+* 📊 Data Analysis Projects (Python & SQL)
+* 📈 Power BI Dashboards
+* 🤖 AI-powered Data Applications
+
+---
+
+## 📌 Featured Projects
 
 
-🚀 Skills & Tools
-Data Analysis: Python, Pandas, NumPy, SQL (Basic Queries, Data Extraction) 
-Visualization: Power BI, Matplotlib, Seaborn 
-Healthcare Analytics: Medical Coding (ICD-10, CPT)
-Healthcare Data Management 
-Cloud & Platforms: Microsoft Azure Fundamentals (AZ-900), Power Platform (PL-900) 
-Core Competencies: Data Cleaning, Exploratory Data Analysis (EDA), Trend Forecasting, and Problem-Solving
+🔹 **AI Data Analyst Assistant**
+
+* Built using Python & Streamlit
+* Automates EDA and visualization
+  👉 [View Project](https://github.com/darshinio-debug/AI-DATA-ANALYST-INTERN)
+  
+
+🔹 **Walmart Sales Analysis & Forecasting**
+
+* Built Power BI dashboard + Python analysis
+* Identified trends, seasonality, and business insights
+  👉 [View Project](https://github.com/darshinio-debug/Walmart-Sales-forecasting-Analytics)
+
+-----
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/darshinio-debug">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="YOUR_INSTAGRAM_LINK">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" />
+  </a>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=darshinio-debug&label=Profile%20Views&color=ff69b4&style=flat" />
+</p>
 
 
-🌐 Connect With Me
-
-GitHub: https://github.com/darshinio-debug
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/darshini-so/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gigzdarsh/)
 
 
 
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=darshinio-debug)
