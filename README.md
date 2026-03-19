@@ -1,4 +1,4 @@
-<h1 align="center">Darshini | Data Analyst 👩‍💻</h1>
+<h1 align="center">Hi, I'm Darshini 👩‍💻</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=22&center=true&vCenter=true&width=500&lines=Python+%7C+SQL+%7C+Power+BI;Healthcare+Analytics;Turning+Data+into+Insights;Open+to+Opportunities" />
