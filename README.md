@@ -14,7 +14,7 @@
 
 🏥 Experience in **Healthcare Data & Medical Coding (ICD-10, CPT)**
 
-🚀 Currently learning **Data Science & AI @ IIT Roorkee**
+🚀 Completed **Data Science & AI @ IIT Roorkee**
 
 ---
 
